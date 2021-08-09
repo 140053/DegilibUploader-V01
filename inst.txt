@@ -1,0 +1,6 @@
+pip install -r requirements.txt
+to install requirements
+
+You can now activate the virtual environment, type:
+
+$ source my_env_project/bin/activate
